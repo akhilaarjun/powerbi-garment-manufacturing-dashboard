@@ -50,7 +50,7 @@ The dashboard provides insights into:
 
 ## Data Model
 
-![Data Model](docs/data-model.png)
+![Data Model](DataFolder/data-model.png)
 
 ## Skills Demonstrated
 
